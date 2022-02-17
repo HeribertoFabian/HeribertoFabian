@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-<p align="justify">Enthusiastic Software Engineer and Passionate about programming research and developmente since 2012 working with a variety of frameworks java based like JavaEE, JavaBeans, Spring, Spring boot, Quarkus, JavaServerFaces and mixing this with new technogies like SQL/NOSQL databases, testing tools, static analysis tools and DevSecOps tools like Docker, Kubernetes or jenkins, all of this within a cloud environments like Azure, GCP and AWS. Scrum & Agile inspired.</p>
+<p align="justify">Enthusiastic Software Engineer and Passionate about programming research and development since 2012 working with a variety of frameworks java based like JavaEE, JavaBeans, Spring, Spring boot, Quarkus, JavaServerFaces and mixing this with new technogies like SQL/NOSQL databases, testing tools, static analysis tools and DevSecOps tools like Docker, Kubernetes or jenkins, all of this within a cloud environments like Azure, GCP and AWS. Scrum & Agile inspired.</p>
 
 
 - 🔭 I’m currently working on Cloud Technologies
