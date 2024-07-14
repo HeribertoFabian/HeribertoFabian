@@ -19,7 +19,7 @@
 
 <p align="left">
     <a href="https://www.java.com/es/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a>
-    <a href="https://www.java.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/a790ac28b40312327cf86115d1c3c9dd57a58dcd/topics/javafx/javafx.png" alt="Java" width="60" height="60" /> </a>
+    <a href="https://www.java.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/a790ac28b40312327cf86115d1c3c9dd57a58dcd/topics/javafx/javafx.png" alt="Java" width="80" height="80" /> </a>
     <a href="https://spring.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" /> </a>
     <a href="https://gradle.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40" /> </a>
     <a href="https://www.jetbrains.com/es-es/idea/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intelliJ" width="40" height="40" /> </a>
